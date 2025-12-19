@@ -19,7 +19,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sanjeevkumar3662/Sanjeevkumar3662/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Sanjeevkumar3662/Sanjeevkumar3662/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
